@@ -37,7 +37,7 @@ allprojects {
                 compileSdkVersion: 33,
         ]
 
-        androidxRunner            =    '1.5.0'
+        androidxRunner            =    '1.5.2'
         androidxCoreKt            =    '1.10.1'
         androidTestMonitor        =    '1.6.1'
         appCenterSdkVersion       =    '5.0.2'
