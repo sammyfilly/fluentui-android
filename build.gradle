@@ -38,7 +38,7 @@ allprojects {
         ]
 
         androidxRunner            =    '1.5.2'
-        androidxCoreKt            =    '1.10.1'
+        androidxCoreKt            =    '1.15.0'
         androidTestMonitor        =    '1.6.1'
         appCenterSdkVersion       =    '5.0.2'
         appCompatVersion          =    '1.6.1'
