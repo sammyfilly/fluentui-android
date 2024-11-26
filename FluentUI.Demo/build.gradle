@@ -89,7 +89,7 @@ dependencies {
     implementation "androidx.constraintlayout:constraintlayout:$constraintLayoutVersion"
     implementation 'com.squareup.picasso:picasso:2.71828'
     implementation 'com.github.bumptech.glide:glide:4.8.0'
-    implementation 'com.jakewharton.threetenabp:threetenabp:1.1.0'
+    implementation 'com.jakewharton.threetenabp:threetenabp:1.4.8'
 
     //Compose BOM
     implementation platform("androidx.compose:compose-bom:$composeBomVersion")
