@@ -121,7 +121,7 @@ dependencies {
     androidTestImplementation "androidx.test:rules:${androidxRunner}"
     androidTestImplementation "org.hamcrest:hamcrest:$hamcrestVersion"
 
-    implementation 'com.microsoft.design:fluent-system-icons:1.1.203@aar'
+    implementation 'com.microsoft.design:fluent-system-icons:1.1.271@aar'
 
     //Robolectric
     testImplementation "org.robolectric:robolectric:${robolectric}"
